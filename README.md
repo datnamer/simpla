@@ -22,7 +22,7 @@
 
 <p align="center">
  <a href="https://saucelabs.com/u/simpla" target="_blank">
-  <img src="https://saucelabs.com/browser-matrix/simpla.svg" alt="Cross browser test status" title="Cross browser test status">
+  <img src="https://badges.herokuapp.com/sauce/simpla/?name=simplaio/simpla" alt="Cross browser test status" title="Cross browser test status">
  </a>
 </p>
 
