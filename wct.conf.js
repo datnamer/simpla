@@ -10,7 +10,7 @@ module.exports = {
         'windows/firefox',
         'mac/safari',
         'any/iPhone',
-        'android/chrome',
+        'any/android',
         'windows 10/internet explorer',
         'windows 10/MicrosoftEdge',
       ]
