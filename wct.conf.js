@@ -5,7 +5,9 @@ module.exports = {
       disabled: true,
       browsers: [
         'mac/chrome',
+        'windows/chrome',
         'mac/firefox',
+        'windows/firefox',
         'mac/safari',
         'any/iPhone',
         'android/chrome',
