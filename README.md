@@ -3,16 +3,28 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/bower/v/simpla.svg" alt="Bower version">
+  <img src="https://img.shields.io/bower/v/simpla.svg" alt="Bower version" title="Bower version">
 
-  <a href="https://travis-ci.org/simplaio/simpla" target="_blank"><img src="https://travis-ci.org/simplaio/simpla.svg?branch=master" alt="Build satus" /></a>
+  <a href="https://travis-ci.org/simplaio/simpla" target="_blank"><img src="https://travis-ci.org/simplaio/simpla.svg?branch=master" alt="Test satus" title="Test satus" /></a>
 
-  <a href="https://gemnasium.com/github.com/simplaio/simpla" target="_blank"><img src="https://img.shields.io/gemnasium/simplaio/simpla.svg" alt="Bower dependencies"></a>
+  <a href="https://gemnasium.com/github.com/simplaio/simpla" target="_blank">
+   <img src="https://img.shields.io/gemnasium/simplaio/simpla.svg" alt="Bower dependencies" title="Bower dependencies">
+  </a>
 
-  <a href="https://david-dm.org/simplaio/simpla#info=devDependencies" target="_blank"><img src="https://img.shields.io/david/dev/simplaio/simpla.svg?theme=shields.io" alt="Bower dependencies"></a>
+  <a href="https://david-dm.org/simplaio/simpla#info=devDependencies" target="_blank">
+   <img src="https://img.shields.io/david/dev/simplaio/simpla.svg?theme=shields.io" alt="Bower dependencies" title="Bower dependencies">
+  </a>
 
-  <a href="http://slack.simpla.io" target="_blank"><img src="http://slack.simpla.io/badge.svg" alt="Slack group"></a>
+  <a href="http://slack.simpla.io" target="_blank">
+   <img src="http://slack.simpla.io/badge.svg" alt="Slack group" title="Slack group">
+  </a>
 </p> 
+
+<p align="center">
+ <a href="https://saucelabs.com/u/simpla" target="_blank">
+  <img src="https://saucelabs.com/browser-matrix/simpla.svg" alt="Cross browser test status" title="Cross browser test status">
+ </a>
+</p>
 
 <br/>
 
